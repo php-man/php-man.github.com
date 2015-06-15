@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://php-man.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+title: php-man
+subtitle: Learning Together PHP.
+author: php-man
+simple_search: http://www.google.com.hk/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
