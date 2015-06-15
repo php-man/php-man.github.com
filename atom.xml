@@ -4,7 +4,7 @@
   <title><![CDATA[php-man]]></title>
   <link href="http://php-man.github.io/atom.xml" rel="self"/>
   <link href="http://php-man.github.io/"/>
-  <updated>2015-06-15T21:22:34+08:00</updated>
+  <updated>2015-06-15T21:28:27+08:00</updated>
   <id>http://php-man.github.io/</id>
   <author>
     <name><![CDATA[php-man]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://php-man.github.io/blog/2015/06/15/new-post/"/>
+    <updated>2015-06-15T21:28:10+08:00</updated>
+    <id>http://php-man.github.io/blog/2015/06/15/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://php-man.github.io/blog/2015/06/15/title/"/>
+    <updated>2015-06-15T21:25:01+08:00</updated>
+    <id>http://php-man.github.io/blog/2015/06/15/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
