@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://php-man.github.io/sitemap.xml 
+Sitemap: http://blog.honghuyule.com/sitemap.xml 
