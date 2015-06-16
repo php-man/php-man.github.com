@@ -4,7 +4,7 @@
   <title><![CDATA[php-man]]></title>
   <link href="http://blog.honghuyule.com/atom.xml" rel="self"/>
   <link href="http://blog.honghuyule.com/"/>
-  <updated>2015-06-16T22:43:30+08:00</updated>
+  <updated>2015-06-16T23:26:29+08:00</updated>
   <id>http://blog.honghuyule.com/</id>
   <author>
     <name><![CDATA[php-man]]></name>
@@ -29,6 +29,27 @@
 
 
 <h3><center>Hello,Github Blog! &ndash;by 郭宇</h3>
+
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+
+
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"php-man"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] 
+         || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script>
+
+
+<!-- 多说公共JS代码 end -->
+
+
+
 ]]></content>
   </entry>
   
